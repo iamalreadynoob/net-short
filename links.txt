@@ -1,0 +1,12 @@
+github#https://github.com/
+gpt#https://chat.openai.com/chat
+twitter#https://twitter.com/home
+youtube#https://www.youtube.com/
+classroom#https://classroom.google.com/
+drive#https://drive.google.com/drive/u/0/my-drive
+uni#https://bm.medeniyet.edu.tr/tr
+translate#https://translate.google.com/
+mal#https://myanimelist.net/
+kaggle#https://www.kaggle.com/
+lastfm#https://www.last.fm/user/Saythek
+mail#https://mail.google.com/mail/u/0/#inbox
